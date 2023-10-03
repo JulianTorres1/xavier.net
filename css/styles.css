@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    
+}
+
+h1 {
+    color: wheat;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+
+#mainDiv {
+    margin-top: 70px;
+    margin-bottom: 5px;
+    align-content: center;
+    align-items: center;
+    color: wheat;
+}
